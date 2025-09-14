@@ -2,7 +2,7 @@
 This project was developed as part of a **Kaggle Competition**.  
 The goal is to predict how long users are likely to listen to a podcast episode based on various features such as genre, episode length, host popularity, guest popularity, publication day/time, ads, and sentiment.  
 
-![Streamlit App Screenshot]("C:\Users\Asus\OneDrive - Benha University (Faculty Of Computers & Information Technolgy)\Pictures\Screenshots\Screenshot 2025-09-15 015054.png")
+![Streamlit App Screenshot]()
 *Interactive Streamlit application for podcast listening time prediction*
 
 ---
@@ -46,7 +46,7 @@ Make sure you have Python 3.7+ installed on your system.
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/Podcast-Listening-Time-Predictor.git
+git clone https://github.com/ammarelbordeny/Podcast-Listening-Time-Predictor.git
 cd Podcast-Listening-Time-Predictor
 ```
 
