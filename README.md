@@ -24,13 +24,16 @@ The goal is to predict how long users are likely to listen to a podcast episode 
 ---
 
 ## 📂 Repository Structure  
-  📦 Podcast-Listening-Time-Predictor
-  ├── 📁 notebooks/ # Kaggle notebooks & EDA
-  ├── 📁 models/ # Saved pickle models
-  │ ├── label_encoder.pkl
-  │ ├── onehot_encoder.pkl
-  │ ├── scaler.pkl
-  │ └── xgb_model.pkl
-  ├── app.py # Streamlit App
-  ├── requirements.txt # Dependencies
-  └── README.md # Project Documentation
+
+```text
+📦 Podcast-Listening-Time-Predictor
+├── 📁 notebooks/              # Training model notebook
+├── 📁 models/                 # Saved pickle models
+│   ├── label_encoder.pkl
+│   ├── onehot_encoder.pkl
+│   ├── scaler.pkl
+│   └── xgb_model.pkl
+├── app.py                     # Streamlit App
+├── requirements.txt           # Dependencies
+└── README.md                  # Project Documentation
+
