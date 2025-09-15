@@ -39,9 +39,14 @@ The goal is to predict how long users are likely to listen to a podcast episode 
 │   └── xgb_model.pkl
 ├── 📁 images/                 # Screenshots and images
 │   └── streamlit_app_screenshot.png
+├── 📁 data/                   # Datasets
+│   ├── train.csv              # Training dataset
+│   ├── test.csv               # Test dataset (without labels)
+│   └── test_predictions.csv   # Model predictions on test data
 ├── app.py                     # Streamlit App
 ├── requirements.txt           # Dependencies
 └── README.md                  # Project Documentation
+
 ```
 
 ---
@@ -129,11 +134,3 @@ streamlit run app.py --server.port 8502
 5. Open a Pull Request
 
 ---
-## 📄 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-## 🙏 Acknowledgments
-- Kaggle for hosting the competition
-- XGBoost developers for the excellent gradient boosting framework
-- Streamlit team for the amazing web app framework
