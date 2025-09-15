@@ -2,7 +2,7 @@
 This project was developed as part of a **Kaggle Competition**.  
 The goal is to predict how long users are likely to listen to a podcast episode based on various features such as genre, episode length, host popularity, guest popularity, publication day/time, ads, and sentiment.  
 
-![Streamlit App Screenshot]()
+![Streamlit App Screenshot](https://github.com/ammarelbordeny/Podcast-Listening-Time-Predictor-/blob/main/images/Screenshot%202025-09-15%20015054.png)
 *Interactive Streamlit application for podcast listening time prediction*
 
 ---
