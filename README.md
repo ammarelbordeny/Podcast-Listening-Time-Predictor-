@@ -94,6 +94,15 @@ streamlit run app.py --server.port 8502
 ```
 
 ---
+
+---
+## 🌐 Try the Model Online  
+
+You can try the deployed model directly without installing anything from this link:  
+👉 [Podcast Listening Time Predictor - Streamlit App](https://hdgmf3appbx3sckkquayqvh.streamlit.app/)  
+
+---
+
 ## 🎯 How to Use the App
 
 1. **Launch the Application:** Run the Streamlit command above
